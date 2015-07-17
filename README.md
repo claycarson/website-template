@@ -1,5 +1,7 @@
 This is a template of the personal website of [Clay Carson](http://claycarson.net), hosted by [GitHub Pages](http://pages.github.com).
 
+**[Demo Site](https://ccdemosite.github.io/)**
+
 ## Tutorials, instructions, tweaks, improvements...
 
 - [GitHub Pages](https://pages.github.com)
